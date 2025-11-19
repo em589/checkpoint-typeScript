@@ -152,8 +152,5 @@ Car engine started
 
 ---
 
-## 🎉 Done!
 
-You now have a working TypeScript project that compiles to JavaScript and runs in both Node and the browser.
 
-If you want to extend the project (UI, classes, modules, multiple vehicles), feel free to ask!
